@@ -33,5 +33,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Demo
 
-Insert gif or link to demo
+https://karim-ben.github.io/Image-Zoom-Web-Application/
 
